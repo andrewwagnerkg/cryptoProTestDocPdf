@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\bin\Debug\FileSingerApp.exe
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\bin\Debug\FileSingerApp.pdb
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.Form1.resources
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.Properties.Resources.resources
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.exe
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.pdb
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\bin\Debug\CryptoPro.Sharpei.Base.dll
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\bin\Debug\CryptoPro.Sharpei.ServiceModel.dll
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\bin\Debug\CryptoPro.Sharpei.Xml.dll
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\bin\Debug\itextsharp.dll
+C:\Users\user\source\repos\FileSingerApp\FileSingerApp\obj\Debug\FileSingerApp.csproj.CopyComplete
